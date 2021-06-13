@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HareGame", "HareGame\HareGame.csproj", "{A3DD5C23-AEC4-4311-803A-777206DCA1AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HareGameTest", "HareGameTest\HareGameTest.csproj", "{887F3727-D184-4C68-84E3-C665A2DB501D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3DD5C23-AEC4-4311-803A-777206DCA1AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3DD5C23-AEC4-4311-803A-777206DCA1AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3DD5C23-AEC4-4311-803A-777206DCA1AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3DD5C23-AEC4-4311-803A-777206DCA1AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{887F3727-D184-4C68-84E3-C665A2DB501D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{887F3727-D184-4C68-84E3-C665A2DB501D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{887F3727-D184-4C68-84E3-C665A2DB501D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{887F3727-D184-4C68-84E3-C665A2DB501D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9C02901-09D8-4524-8CDD-33F43338A01A}
+	EndGlobalSection
+EndGlobal
